@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raluca Sandu</title>
+    <link>https://raluca-san.github.io/authors/admin/</link>
+      <atom:link href="https://raluca-san.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raluca Sandu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Raluca-Maria Sandu. All rights reserved.</copyright><lastBuildDate>Mon, 30 Dec 2019 20:08:42 +0100</lastBuildDate>
+    <image>
+      <url>https://raluca-san.github.io/img/icon-192.png</url>
+      <title>Raluca Sandu</title>
+      <link>https://raluca-san.github.io/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://raluca-san.github.io/post/my-first-post/</link>
+      <pubDate>Mon, 30 Dec 2019 20:08:42 +0100</pubDate>
+      <guid>https://raluca-san.github.io/post/my-first-post/</guid>
+      <description>&lt;p&gt;Hello, World!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

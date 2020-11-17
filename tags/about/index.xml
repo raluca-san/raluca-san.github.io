@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About | Raluca Sandu</title>
+    <link>https://raluca-san.github.io/tags/about/</link>
+      <atom:link href="https://raluca-san.github.io/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <description>About</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Raluca-Maria Sandu. All rights reserved.</copyright><lastBuildDate>Tue, 07 Jan 2020 21:07:57 +0100</lastBuildDate>
+    <image>
+      <url>https://raluca-san.github.io/img/icon-192.png</url>
+      <title>About</title>
+      <link>https://raluca-san.github.io/tags/about/</link>
+    </image>
+    
+    <item>
+      <title>HiperNav: Marie Skłodowska-Curie PhD Fellowship </title>
+      <link>https://raluca-san.github.io/project/hipernav/</link>
+      <pubDate>Tue, 07 Jan 2020 21:07:57 +0100</pubDate>
+      <guid>https://raluca-san.github.io/project/hipernav/</guid>
+      <description>&lt;p&gt;HiPerNav (High Performance Soft Tissue Navigation) is an Innovative Training Network (ITN) funded through a EU Marie Skłodowska-Curie grant. This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 722068. I am one of the 14 funded PhD’s working on the project. My PhD project is carried out in the Image-Guided Therapy group at the ARTORG Center for Biomedical Engineering (University of Bern).&lt;/p&gt;
+&lt;p&gt;You can find out more information about the project on the website of the project: &lt;a href=&#34;https://hipernav.eu/&#34;&gt;https://hipernav.eu/&lt;/a&gt;
+A video introduction of my PhD project can be found at this link: &lt;a href=&#34;https://hipernav.eu/esr-9/&#34;&gt;https://hipernav.eu/esr-9/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

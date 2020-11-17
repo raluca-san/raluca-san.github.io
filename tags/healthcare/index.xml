@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Healthcare | Raluca Sandu</title>
+    <link>https://raluca-san.github.io/tags/healthcare/</link>
+      <atom:link href="https://raluca-san.github.io/tags/healthcare/index.xml" rel="self" type="application/rss+xml" />
+    <description>Healthcare</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Raluca-Maria Sandu. All rights reserved.</copyright><lastBuildDate>Tue, 07 Jan 2020 20:48:16 +0100</lastBuildDate>
+    <image>
+      <url>https://raluca-san.github.io/img/icon-192.png</url>
+      <title>Healthcare</title>
+      <link>https://raluca-san.github.io/tags/healthcare/</link>
+    </image>
+    
+    <item>
+      <title>MAVERRIC - Microwave Ablation Versus Resection for Resectable Colorectal Liver Metastases</title>
+      <link>https://raluca-san.github.io/project/maverric/</link>
+      <pubDate>Tue, 07 Jan 2020 20:48:16 +0100</pubDate>
+      <guid>https://raluca-san.github.io/project/maverric/</guid>
+      <description>&lt;p&gt;MAVERRIC is the clinical project from where I collected and analyzed all of the data related to my PhD project. It provides interventional data from CT-guided microwave ablation interventions for liver tumors.&lt;/p&gt;
+&lt;p&gt;This is an excerpt from the clinicaltrials.gov website:&lt;/p&gt;
+&lt;p&gt;This study aims to prove that a strategy of first line local ablation of colorectal liver metastases with microwaves is not inferior to liver resections in terms of survival rates at three years with secondary endpoints being survival at five and ten years, interventional complication rates, length of stay, ablation precision measurements, need for further interventions and health-economic analysis.
+A cohort of 100 patients treated with CT guided microwave ablation of 1-5 metastases &amp;lt;31mm in size will be followed and compared with propensity scored matched controls from the Swedish liver surgery registry - Sweliv.
+The study is a multi-institutional effort by the Hepato Pancreatico Biliary (HPB) units in Stockholm Sweden, Bern Switzerland and Groningen in the Netherlands.&lt;/p&gt;
+&lt;p&gt;The graph displayed here shows historical data from the Swedish liver registry with survival after liver resection for colorectal liver metastases, upper 95% CI in green and lower in red.
+The blue line are the patients included in the study.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raluca Sandu</title>
+    <link>https://raluca-san.github.io/</link>
+      <atom:link href="https://raluca-san.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raluca Sandu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Raluca-Maria Sandu. All rights reserved.</copyright><lastBuildDate>Tue, 07 Jan 2020 21:07:57 +0100</lastBuildDate>
+    <image>
+      <url>https://raluca-san.github.io/img/icon-192.png</url>
+      <title>Raluca Sandu</title>
+      <link>https://raluca-san.github.io/</link>
+    </image>
+    
+    <item>
+      <title>HiperNav: Marie Skłodowska-Curie PhD Fellowship </title>
+      <link>https://raluca-san.github.io/project/hipernav/</link>
+      <pubDate>Tue, 07 Jan 2020 21:07:57 +0100</pubDate>
+      <guid>https://raluca-san.github.io/project/hipernav/</guid>
+      <description>&lt;p&gt;HiPerNav (High Performance Soft Tissue Navigation) is an Innovative Training Network (ITN) funded through a EU Marie Skłodowska-Curie grant. This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 722068. I am one of the 14 funded PhD’s working on the project. My PhD project is carried out in the Image-Guided Therapy group at the ARTORG Center for Biomedical Engineering (University of Bern).&lt;/p&gt;
+&lt;p&gt;You can find out more information about the project on the website of the project: &lt;a href=&#34;https://hipernav.eu/&#34;&gt;https://hipernav.eu/&lt;/a&gt;
+A video introduction of my PhD project can be found at this link: &lt;a href=&#34;https://hipernav.eu/esr-9/&#34;&gt;https://hipernav.eu/esr-9/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MAVERRIC - Microwave Ablation Versus Resection for Resectable Colorectal Liver Metastases</title>
+      <link>https://raluca-san.github.io/project/maverric/</link>
+      <pubDate>Tue, 07 Jan 2020 20:48:16 +0100</pubDate>
+      <guid>https://raluca-san.github.io/project/maverric/</guid>
+      <description>&lt;p&gt;MAVERRIC is the clinical project from where I collected and analyzed all of the data related to my PhD project. It provides interventional data from CT-guided microwave ablation interventions for liver tumors.&lt;/p&gt;
+&lt;p&gt;This is an excerpt from the clinicaltrials.gov website:&lt;/p&gt;
+&lt;p&gt;This study aims to prove that a strategy of first line local ablation of colorectal liver metastases with microwaves is not inferior to liver resections in terms of survival rates at three years with secondary endpoints being survival at five and ten years, interventional complication rates, length of stay, ablation precision measurements, need for further interventions and health-economic analysis.
+A cohort of 100 patients treated with CT guided microwave ablation of 1-5 metastases &amp;lt;31mm in size will be followed and compared with propensity scored matched controls from the Swedish liver surgery registry - Sweliv.
+The study is a multi-institutional effort by the Hepato Pancreatico Biliary (HPB) units in Stockholm Sweden, Bern Switzerland and Groningen in the Netherlands.&lt;/p&gt;
+&lt;p&gt;The graph displayed here shows historical data from the Swedish liver registry with survival after liver resection for colorectal liver metastases, upper 95% CI in green and lower in red.
+The blue line are the patients included in the study.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://raluca-san.github.io/post/my-first-post/</link>
+      <pubDate>Mon, 30 Dec 2019 20:08:42 +0100</pubDate>
+      <guid>https://raluca-san.github.io/post/my-first-post/</guid>
+      <description>&lt;p&gt;Hello, World!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Volumetric Assessment of CT-guided Ablation  Treatments for Colorectal Liver Metastases</title>
+      <link>https://raluca-san.github.io/publication/sandu-quantitative-2019/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://raluca-san.github.io/publication/sandu-quantitative-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative volumetric assessment of percutaneous image-guided microwave ablations for colorectal liver metastases</title>
+      <link>https://raluca-san.github.io/publication/sandu-quantitative-2019-2/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://raluca-san.github.io/publication/sandu-quantitative-2019-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stereotactic Image-Guidance  for Ablation of Malignant Liver  Tumors</title>
+      <link>https://raluca-san.github.io/publication/paolucci-stereotactic-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://raluca-san.github.io/publication/paolucci-stereotactic-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative volumetric assessment of percutaneous image-guided  microwave ablations for colorectal liver metastases</title>
+      <link>https://raluca-san.github.io/publication/sandu-quantitative-2019-1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://raluca-san.github.io/publication/sandu-quantitative-2019-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultrasound based planning and navigation for non anatomical liver resections — an ex-vivo study</title>
+      <link>https://raluca-san.github.io/publication/paolucci-ultrasound-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://raluca-san.github.io/publication/paolucci-ultrasound-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Framework For The Quantitative Assessment of Image-guided Percutaneous Ablation of Hepatic Lesions</title>
+      <link>https://raluca-san.github.io/publication/hrabuska-framework-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://raluca-san.github.io/publication/hrabuska-framework-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
