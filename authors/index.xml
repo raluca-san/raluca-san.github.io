@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Raluca Sandu</title>
+    <title>Authors | Raluca-Maria Sandu</title>
     <link>https://raluca-san.github.io/authors/</link>
       <atom:link href="https://raluca-san.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
@@ -17,10 +17,10 @@
       <link>https://raluca-san.github.io/authors/admin/</link>
       <pubDate>Mon, 30 Dec 2019 20:08:42 +0100</pubDate>
       <guid>https://raluca-san.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Hi there. I am Raluca (read exactly as spelled). This is my personal website, where you can find my short bio &amp;amp; sciency stuff.
-I am at core a computer scientist, having been studying programming and algorithms since I was 14 years old.
-My research is at the interface of computer-assisted systems and focuses on developing solutions that can improve the diagnosis and treatment in healthcare - using machine learning, data mining, statistics, and robotics.
-Feel free to get in touch.&lt;/p&gt;
+      <description>&lt;p&gt;Hi there. I am Raluca. This is my personal website, where you can find my short (professional) bio.
+I am at core a computer scientist, having been studying programming and algorithms since I was 14 years old. However, my interest has always been the application of technology in the biomedical field to improve people&#39;s well-being.&lt;/p&gt;
+&lt;p&gt;Consequently,  I have mostly worked  on healthcare/medical related projects, despite having started my academic pursuit with control engineering and applied informatics.&lt;/p&gt;
+&lt;p&gt;Currently, my research is at the interface of computer-assisted systems and focuses on developing solutions that can improve the diagnosis and treatment of liver cancer - using data mining, statistics, and machine learning.&lt;/p&gt;
 </description>
     </item>
     
@@ -49,7 +49,7 @@ Feel free to get in touch.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Raluca- Maria Sandu</title>
+      <title>Raluca-Maria Sandu</title>
       <link>https://raluca-san.github.io/authors/raluca-maria-sandu/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://raluca-san.github.io/authors/raluca-maria-sandu/</guid>
