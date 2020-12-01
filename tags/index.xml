@@ -5,44 +5,12 @@
     <link>https://raluca-san.github.io/tags/</link>
       <atom:link href="https://raluca-san.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 R.M. Sandu. All rights reserved.</copyright><lastBuildDate>Tue, 07 Jan 2020 21:07:57 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Raluca-Maria Sandu. All rights reserved.</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://raluca-san.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://raluca-san.github.io/tags/</link>
     </image>
-    
-    <item>
-      <title>About</title>
-      <link>https://raluca-san.github.io/tags/about/</link>
-      <pubDate>Tue, 07 Jan 2020 21:07:57 +0100</pubDate>
-      <guid>https://raluca-san.github.io/tags/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PhD</title>
-      <link>https://raluca-san.github.io/tags/phd/</link>
-      <pubDate>Tue, 07 Jan 2020 21:07:57 +0100</pubDate>
-      <guid>https://raluca-san.github.io/tags/phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clinical Trials</title>
-      <link>https://raluca-san.github.io/tags/clinical-trials/</link>
-      <pubDate>Tue, 07 Jan 2020 20:48:16 +0100</pubDate>
-      <guid>https://raluca-san.github.io/tags/clinical-trials/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Healthcare</title>
-      <link>https://raluca-san.github.io/tags/healthcare/</link>
-      <pubDate>Tue, 07 Jan 2020 20:48:16 +0100</pubDate>
-      <guid>https://raluca-san.github.io/tags/healthcare/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Computer-assisted surgery</title>
@@ -73,6 +41,38 @@
       <link>https://raluca-san.github.io/tags/ultrasonography/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://raluca-san.github.io/tags/ultrasonography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://raluca-san.github.io/tags/about/</link>
+      <pubDate>Thu, 01 Jan 1970 00:59:59 +0100</pubDate>
+      <guid>https://raluca-san.github.io/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD</title>
+      <link>https://raluca-san.github.io/tags/phd/</link>
+      <pubDate>Thu, 01 Jan 1970 00:59:59 +0100</pubDate>
+      <guid>https://raluca-san.github.io/tags/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical Trials</title>
+      <link>https://raluca-san.github.io/tags/clinical-trials/</link>
+      <pubDate>Thu, 01 Jan 1970 00:59:58 +0100</pubDate>
+      <guid>https://raluca-san.github.io/tags/clinical-trials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Healthcare</title>
+      <link>https://raluca-san.github.io/tags/healthcare/</link>
+      <pubDate>Thu, 01 Jan 1970 00:59:58 +0100</pubDate>
+      <guid>https://raluca-san.github.io/tags/healthcare/</guid>
       <description></description>
     </item>
     
