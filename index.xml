@@ -5,12 +5,20 @@
     <link>https://raluca-san.github.io/</link>
       <atom:link href="https://raluca-san.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>R.M. Sandu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Raluca-Maria Sandu. All rights reserved.</copyright><lastBuildDate>Mon, 30 Dec 2019 20:08:42 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021 Raluca-Maria Sandu. All rights reserved.</copyright><lastBuildDate>Thu, 07 Jan 2021 14:37:36 +0100</lastBuildDate>
     <image>
       <url>https://raluca-san.github.io/img/icon-192.png</url>
       <title>R.M. Sandu</title>
       <link>https://raluca-san.github.io/</link>
     </image>
+    
+    <item>
+      <title>Volumetric Quantitative Ablation Margins for Assessment of Ablation Completeness in Thermal Ablation of Liver Tumours</title>
+      <link>https://raluca-san.github.io/publication/sandu-2021/</link>
+      <pubDate>Thu, 07 Jan 2021 14:37:36 +0100</pubDate>
+      <guid>https://raluca-san.github.io/publication/sandu-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>My First Post</title>

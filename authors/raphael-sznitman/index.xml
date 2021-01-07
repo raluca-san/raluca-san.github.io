@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raphael Sznitman | R.M. Sandu</title>
+    <link>https://raluca-san.github.io/authors/raphael-sznitman/</link>
+      <atom:link href="https://raluca-san.github.io/authors/raphael-sznitman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raphael Sznitman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021 Raluca-Maria Sandu. All rights reserved.</copyright><lastBuildDate>Thu, 07 Jan 2021 14:37:36 +0100</lastBuildDate>
+    <image>
+      <url>https://raluca-san.github.io/img/icon-192.png</url>
+      <title>Raphael Sznitman</title>
+      <link>https://raluca-san.github.io/authors/raphael-sznitman/</link>
+    </image>
+    
+    <item>
+      <title>Volumetric Quantitative Ablation Margins for Assessment of Ablation Completeness in Thermal Ablation of Liver Tumours</title>
+      <link>https://raluca-san.github.io/publication/sandu-2021/</link>
+      <pubDate>Thu, 07 Jan 2021 14:37:36 +0100</pubDate>
+      <guid>https://raluca-san.github.io/publication/sandu-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
