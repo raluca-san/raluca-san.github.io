@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Stillström | R.M. Sandu</title>
+    <link>https://raluca-san.github.io/authors/david-stillstrom/</link>
+      <atom:link href="https://raluca-san.github.io/authors/david-stillstrom/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Stillström</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021 Raluca-Maria Sandu. All rights reserved.</copyright><lastBuildDate>Sun, 03 Jan 2021 15:45:44 +0100</lastBuildDate>
+    <image>
+      <url>https://raluca-san.github.io/img/icon-192.png</url>
+      <title>David Stillström</title>
+      <link>https://raluca-san.github.io/authors/david-stillstrom/</link>
+    </image>
+    
+    <item>
+      <title>Accuracy of Electrode Placement in IRE Treatment with Navigated Guidance</title>
+      <link>https://raluca-san.github.io/publication/stillstrom-2021/</link>
+      <pubDate>Sun, 03 Jan 2021 15:45:44 +0100</pubDate>
+      <guid>https://raluca-san.github.io/publication/stillstrom-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
